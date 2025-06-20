@@ -1,6 +1,5 @@
 # 💫 About Me:
-RAMIRO ROMERA <br>Backend Developer <br>Datos de Contacto <br>• Email: ramiromera25@gmail.com <br>• GitHub: https://github.com/RamiroRomera25 <br>• LinkedIn: https://www.linkedin.com/in/ramiro-romera/ <br> <br>Desarrollador backend apasionado por crear arquitecturas sólidas y eficientes. <br>Especializado en Java/Spring Boot, con experiencia en el desarrollo de microservicios y <br>APIs REST. Destaco por mi capacidad para resolver problemas complejos y mi compromiso <br>con las mejores prácticas de desarrollo. Soy multilingüe (español, inglés B2, portugués <br>intermedio) y me apasiona el aprendizaje continuo. Busco unirme a un equipo donde pueda <br>crecer y aportar valor desde el primer día.
-
+<br>Backend Developer <br>Datos de Contacto <br>• Email: ramiromera25@gmail.com <br>• GitHub: https://github.com/RamiroRomera25 <br>• LinkedIn: https://www.linkedin.com/in/ramiro-romera/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ramiro-romera) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramiromera25@gmail.com) 
